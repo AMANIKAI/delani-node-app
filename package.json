@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Amani",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node": "^19.4.0"
+  }
 }
